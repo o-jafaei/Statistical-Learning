@@ -1,0 +1,14 @@
+The training dataset contains 891 training examples and 12 features including the label, and the testing data set contains 418 rows and 11 features, no label.
+Next is the description of the features.
+
+-Passenger ID to identify the passenger, numerical feature (Passenger ID/Ticket Number).
+-Survived is our label, as we can see is a binary feature, 1 if survived and 0 otherwise.
+-Pclass is the Ticket class (1 = 1st (Upper), 2 = 2nd (Middle), 3 = 3rd (lower))
+-Name is the name of passenger
+-Age is the age in years
+-Sibsp is the number of siblings / spouses aboard the Titanic
+-Parch is the number of parents / children aboard the Titanic
+-Ticket is the ticket number
+-Fare is the Passenger fare
+-Cabin is the cabin number
+-Embarked means Port of Embarkation. C = Cherbourg, Q = Queenstown, S = Southampton
